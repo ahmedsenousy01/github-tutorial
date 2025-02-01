@@ -11,6 +11,9 @@ int main()
       cout << i << endl;
     }
 
+    if (n > 9)
+    return 0;
+
     cout << "Hello World!" << endl;
     return 0;
 }
